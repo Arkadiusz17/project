@@ -1,1 +1,1 @@
-Thats my begiiners projects :)
+Thats my beginning projects :)
