@@ -4,7 +4,7 @@ player2_result = 0
 
 
 while player1_result != 3 and player2_result != 3:
-    Choice_options_player = True
+ 
     player1 = input("player 1 state your choice: ")
     player2 = input("player 2 state your choice: ")
 
